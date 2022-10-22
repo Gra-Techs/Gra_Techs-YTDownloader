@@ -1,5 +1,5 @@
-#   Gra_Techs YTDownloader
-#   In This Code
+          Gra_Techs YTDownloader
+In This Code
 
 i used three modules
 
@@ -9,7 +9,7 @@ i used three modules
 
 pip install tkinter
 pip install pytube
-pip install os
+no need to intall os. 
 
 #NOTE
-the empty folder    named    downloaded_videos  is the destination for videos
+the empty folder    named    downloaded_videos  is the destination for your  downloaded videos
